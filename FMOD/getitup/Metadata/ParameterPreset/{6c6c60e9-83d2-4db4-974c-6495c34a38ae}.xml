@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{6c6c60e9-83d2-4db4-974c-6495c34a38ae}">
+		<property name="name">
+			<value>MoveToMarker</value>
+		</property>
+		<relationship name="folder">
+			<destination>{00e8472f-a0ca-4a83-b065-762892e1449d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c32ce4ac-0b2e-443d-b14b-3910f6f3baae}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c32ce4ac-0b2e-443d-b14b-3910f6f3baae}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

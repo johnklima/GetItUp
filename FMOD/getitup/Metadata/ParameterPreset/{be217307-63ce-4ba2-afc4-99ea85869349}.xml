@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{be217307-63ce-4ba2-afc4-99ea85869349}">
+		<property name="name">
+			<value>MoveBack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{00e8472f-a0ca-4a83-b065-762892e1449d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{993730d4-46ca-468b-95e3-f7d0e8eb3527}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{993730d4-46ca-468b-95e3-f7d0e8eb3527}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
